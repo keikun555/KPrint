@@ -28,6 +28,6 @@ In commandline, `kprint [filepath]`
 The `[filepath]` should be replaced with the path to your file that you want to print.
 
 # Still in development
-* The duplexer function (we currently have a not functioning checkbox)
+* The duplexer function (we currently have a dysfunctional checkbox)
 * Choose format of printing
 * Print layout
